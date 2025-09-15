@@ -1,4 +1,4 @@
-package component.staff;
+spackage component.staff;
 
 import java.util.Scanner;
 import clearConsole.clr;
